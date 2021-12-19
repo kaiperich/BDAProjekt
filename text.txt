@@ -1,0 +1,13 @@
+- Ads alle 10 Minuten
+https://help.twitch.tv/s/article/disabling-prerolls?language=en_US
+
+- 3.50$ per 1000 views
+https://www.theverge.com/2020/11/3/21547669/twitch-adblock-ublock-midroll-preroll-ads
+https://www.theverge.com/2020/9/15/21437787/twitch-midroll-ad-affiliate-partner-cpm
+
+- 2016 - 2021 average 24.9%
+https://www.statista.com/statistics/804008/ad-blocking-reach-usage-us/
+
+
+Berechnung:
+(Hours Watched / 10 Minuten) * 0.751 * 3.5$
